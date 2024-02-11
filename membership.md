@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Membership
-permalink: /membership/
+permalink: /membership-plans/
 ---
 # Membership Plans
 

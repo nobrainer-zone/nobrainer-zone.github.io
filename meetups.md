@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Events & Meetups
 permalink: /events-meetups/
 ---

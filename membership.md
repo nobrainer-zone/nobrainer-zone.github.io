@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Membership
 permalink: /membership-plans/
 ---

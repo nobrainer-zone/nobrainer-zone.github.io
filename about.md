@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+# About Us
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to **nobrainer.zone**, a unique coworking space for innovators, creators, and thinkers. Located at the city's heart, we offer a collaborative environment for individuals working in technology, food fermentation, and beyond. Our community is built on the idea that the possibilities are limitless when like-minded people come together.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+At nobrainer.zone, we believe in breaking the boundaries between disciplines. Whether you're a tech enthusiast, a biohacker, or a food fermentation expert, you'll find a space that supports and nurtures your projects. Our mission is to provide a flexible, inspiring, and equipped workspace where members can grow their ideas from concept to reality.

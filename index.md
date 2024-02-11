@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: nobrainer.zone - Where Innovation Meets Collaboration
+title: nobrainer.zone
 ---
 
 # Welcome to nobrainer.zone

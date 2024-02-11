@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events & Meetups
-permalink: /events/
+permalink: /events-meetups/
 ---
 # Events & Meetups
 

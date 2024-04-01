@@ -1,0 +1,15 @@
+baseURL = '/'
+
+defaultContentLanguage = 'en'
+languageCode = 'en'
+
+title = 'nobrainer.zone'
+
+theme = 'smol'
+
+copyright = "nobrainer.zone" 
+
+[params]
+subtitle = 'Community Space in Brno'
+# relative file location is "assets" directory
+avatar = 'images/avatar.png'
